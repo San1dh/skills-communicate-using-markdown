@@ -20,6 +20,8 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 ## Finish
 
+https://san1dh.github.io/skills-communicate-using-markdown/
+
 _Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/welcometocat.png alt=celebrate width=300 align=right>
