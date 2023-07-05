@@ -10,3 +10,5 @@ if(youWant() == true) {
  youCan();
 } else { youCant(); }
 ```
+- [ ] Complete website for project
+- [ ] Study 💀
